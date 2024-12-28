@@ -72,4 +72,8 @@ data/
 #model
 models/
 
-cuda-repo-wsl-ubuntu-12-6-local_12.6.3-1_amd64.deb
+
+predictions/sample_predictions.json
+predictions/predictions_optimized.json
+predictions/predictions_final.json
+predictions/predictions_3_inicial.json
