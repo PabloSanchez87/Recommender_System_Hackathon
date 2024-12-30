@@ -77,3 +77,6 @@ predictions/sample_predictions.json
 predictions/predictions_optimized.json
 predictions/predictions_final.json
 predictions/predictions_3_inicial.json
+
+predictions/predictions_3_gbt.json
+predictions/predictions_3_random_forest.json
