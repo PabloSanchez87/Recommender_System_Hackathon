@@ -57,37 +57,13 @@ notebooks/
 # predictions
 predictions_save/
 
-# Modelo anterior.
-src/models/lightgbm
-
-src/models/pipeline.py
-
-src/models/data_preparation.py
-src/models/predict_recommender.py
-src/models/train_recommender.py
 
 # data
 data/
 
-#model
-models/
-
-
-predictions/sample_predictions.json
-predictions/predictions_optimized.json
-predictions/predictions_final.json
-predictions/predictions_3_inicial.json
-
-predictions/predictions_3_gbt.json
-predictions/predictions_3_random_forest.json
-predictions/predictions_3_category_based_lightgbm.json
-predictions/predictions_3_lightgbm_416.json
-
-predictions/predictions_logged.json
-predictions/predictions_unlogged_random.json
-predictions/predictions_unlogged.json
-
-
-
 
 LightGBM
+
+src/models/final_model/back_up_json
+src/models/_scripts_baseline
+src/models/_lightgbm_v1
