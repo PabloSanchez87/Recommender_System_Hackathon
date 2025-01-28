@@ -4,10 +4,16 @@ Category   ➡️   Data Science
 
 Subcategory   ➡️   Recommender systems
 
-Difficulty   ➡️   Medium
+# Principal files   
+➡️   [Optimizer Datasets](src/models/final_model/optimizacion_datasets.ipynb)  
 
-Expected solution time ➡️ 8 hours. However, if you need more time, it will not affect your score. The timer will begin when you click the start button and will stop upon your submission
+➡️   [Final Model Training](src/models/final_model/final_train_model.ipynb)  
 
+➡️   [Exploratory Model Training](src/models/final_model/train_model.ipynb)  
+
+> [!Note] **Experimental Notebooks**  
+> In the folders [_Hybrid system_](src/models/_hybrid_system), [_Deep Learning_](src/models/_RedesNeuronales), and [_Trying models_](src/models/_train), you will find notebooks with various experiments and preliminary versions used during the iterative process of refining the model.  
+> These files document exploratory tests performed before selecting the final approach.
 ---
 
 ## 🌐 Background
