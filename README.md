@@ -11,7 +11,8 @@ Subcategory   ➡️   Recommender systems
 
 ➡️   [Exploratory Model Training](src/models/final_model/train_model.ipynb)  
 
-> [!Note] **Experimental Notebooks**  
+> [!Note] 
+> **Experimental Notebooks**  
 > In the folders [_Hybrid system_](src/models/_hybrid_system), [_Deep Learning_](src/models/_RedesNeuronales), and [_Trying models_](src/models/_train), you will find notebooks with various experiments and preliminary versions used during the iterative process of refining the model.  
 > These files document exploratory tests performed before selecting the final approach.
 ---
