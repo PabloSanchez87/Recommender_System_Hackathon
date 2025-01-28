@@ -57,13 +57,10 @@ notebooks/
 # predictions
 predictions_save/
 
-
-# data
-data/
-
-
 LightGBM
 
 src/models/final_model/back_up_json
 src/models/_scripts_baseline
 src/models/_lightgbm_v1
+
+data_
